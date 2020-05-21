@@ -2,5 +2,8 @@
 
 
 keep
+
+master add :How are you?
+
 local add:git
 
